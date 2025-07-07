@@ -84,3 +84,7 @@ This project helped me gain strong practical and theoretical experience in:
 ### Build
 ```bash
 make
+```
+```bash
+./retromfa file.mfa
+```
