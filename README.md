@@ -38,7 +38,7 @@ This project helped me gain strong practical and theoretical experience in:
 
 ### 🖥️ Computer Graphics
 - Using **MiniLibX** to render images to a window
-- Understanding raw image formats (BMP headers, pixel data)
+- Understanding raw image formats (Headers, pixel data, colour data)
 - Converting raw RGB pixel arrays into window-renderable buffers
 
 ### 🧰 Software Engineering Best Practices
