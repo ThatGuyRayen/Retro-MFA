@@ -14,7 +14,7 @@ This project was done as part of a systems programming rush to demonstrate low-l
 
 - 🔍 **Binary file inspection** using signature-based pattern matching
 - 🧠 **Partial reverse engineering** of unknown formats
-- 🖼️ **BMP image extraction** from embedded data
+- 🖼️ **Image extraction** from embedded data
 - 🖥️ **Image rendering** using MiniLibX
 - ⚙️ Written entirely in **pure C**
 - 🧹 **Memory safe**: no leaks, crash-proof
